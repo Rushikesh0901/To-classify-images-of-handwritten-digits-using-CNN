@@ -1,5 +1,3 @@
-# Create README.md
-readme_content = """
 # Deep Learning roject
 
 This repository contains the implementation of a deep learning project created as part of a Final Assessment Task (FAT). The project demonstrates advanced neural network design and training, showcasing key concepts in deep learning.
